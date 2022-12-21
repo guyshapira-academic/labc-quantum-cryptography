@@ -1,0 +1,9 @@
+usage: bb84.py [-h] [--bits BITS] [--sims SIMS] [--output OUTPUT]
+
+options:
+  -h, --help       show this help message and exit
+  --bits BITS      Number of bits transmitted in each simulation
+  --sims SIMS      Number of simulations
+  --output OUTPUT  Output file
+
+** if output file is not specified, the program will display the average results but will not save any output.
